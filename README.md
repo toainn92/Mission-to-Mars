@@ -12,4 +12,3 @@ The following tools were used to perform this analysis:
 - Bootstrap
 - HTML
 
-## Result
